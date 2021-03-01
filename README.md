@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+- 🔭 I’m currently working on deep learning
+- 🌱 I’m currently learning machine learning
+- 💬 Ask me about [email](degawong@hotmail.com)
+
 <!--
 **degawong/degawong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
